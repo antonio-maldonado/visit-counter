@@ -11,7 +11,8 @@ of a single class: VisitCounter. VisitCounter has a single method, count().
 It returns 
 ```java 
 Map<Long, Long> 
-``` this map should contain the number of visits
+``` 
+this map should contain the number of visits
 by the user with a given ID.
 
 This method accepts an array of 
